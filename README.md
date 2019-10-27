@@ -25,3 +25,6 @@ In this project a Concurrent Traffic Simulator has been developed.  Concurrent p
 3. Compile: `cmake .. && make`
 4. Run it: `./traffic_simulation`.
 
+
+# Code Structure
+<img src="Code Structure.PNG" width="900" height="450" />
