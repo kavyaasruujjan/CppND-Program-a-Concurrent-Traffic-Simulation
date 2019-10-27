@@ -27,4 +27,4 @@ In this project a Concurrent Traffic Simulator has been developed.  Concurrent p
 
 
 # Code Structure
-<img src="Code Structure.PNG" width="900" height="450" />
+<img src="codestructure.PNG" width="900" height="450" />
